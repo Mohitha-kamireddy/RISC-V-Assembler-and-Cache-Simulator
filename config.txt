@@ -1,0 +1,10 @@
+cacheSize = 1024
+blockSize = 16
+assoc = 2
+writePolicy = write_back
+writeAllocate = 1
+hitTime = 1
+missPenalty = 50
+matrixN = 2
+elemSize = 4
+baseAddr = 1000
